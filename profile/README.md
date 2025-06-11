@@ -23,7 +23,7 @@ A plataforma foi construída para validar um sistema completo e funcional, com f
 ## 🧩 Tecnologias e Infraestrutura
 
 - ⚛️ **Frontend:** React.js (JavaScript)
-- ☕ **Backend:** Spring Boot (Java 17) com Spring Web e Spring Data JPA
+- ☕ **Backend:** Spring Boot (Java 17) com Spring Web, Spring Data JPA e Python
 - 🛢️ **Banco de Dados:** MySQL
 - ☁️ **Cloud (Backend & DB):** Railway
 - △ **Cloud (Frontend):** Vercel
